@@ -105,7 +105,10 @@ Contenido: Arial Regular (11px)
 Mensajes: Consolas (10px)
 
 🖼️ Capturas de Pantalla
+
 Ejercicios
+
+
 ![image](https://github.com/user-attachments/assets/e2ccea5e-9e13-4b63-b364-d22cda1c93b5)
 ![image](https://github.com/user-attachments/assets/09ba7fd1-31f6-4b8a-ae72-a940a981a455)
 ![image](https://github.com/user-attachments/assets/0790c5bf-1205-41cb-87f8-c61fee057b61)

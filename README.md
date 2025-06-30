@@ -1,4 +1,5 @@
 # 🐍 Colección de Programas Python con Interfaz Gráfica
+
 **Alumno: Leandro Marquez
 **Tecnologías: Python
 **Librerias: Tkinter, Pillow, qrcode, pdf2docx, docx2pdf
@@ -7,7 +8,8 @@
 
 ![image](https://github.com/user-attachments/assets/a1adb31e-a7e0-4dea-b528-ec2b103d9771)
 
-📋 Tabla de Contenidos
+#📋 Tabla de Contenidos
+
 Instalación y Ejecución
 
 Características Principales

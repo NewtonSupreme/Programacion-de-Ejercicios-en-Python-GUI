@@ -53,6 +53,9 @@ Barra de progreso para operaciones largas
 
 📦 Programas Incluidos
 #	Nombre del Programa	Descripción	Librerías Clave
+
+
+```bash
 1	Generador de Contraseñas	Crea contraseñas seguras con criterios personalizados	random, string
 2	Calendario Interactivo	Muestra calendarios mensuales o anuales	calendar
 3	Convertidor PDF/Word	Convierte entre formatos PDF y Word	pdf2docx, docx2pdf
@@ -63,9 +66,13 @@ Barra de progreso para operaciones largas
 8	Agenda de Contactos	Almacena y gestiona contactos	tkinter, ttk
 9	Analizador de Texto	Cuenta palabras y frecuencias en archivos	collections, tkinter
 10	Clasificador de Imágenes	Organiza imágenes por tamaño/resolución	PIL, shutil, threading
+```
+
 
 ⚙️ Detalles Técnicos
 
+
+```bash
 ├── ejercicio1.py       # Generador de contraseñas
 ├── ejercicio2.py             # Calendario interactivo
 ├── ejercicio3.py       # Convertidor PDF/Word
@@ -76,6 +83,8 @@ Barra de progreso para operaciones largas
 ├── ejercicio8.py          # Agenda de contactos
 ├── ejercicio9.py            # Analizador de texto
 ├── ejercicio10.py         # Clasificador de imágenes
+```
+
 
 🎨 Diseño UI/UX
 Principios de Diseño
